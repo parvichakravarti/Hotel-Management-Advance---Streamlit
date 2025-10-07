@@ -2,7 +2,7 @@
 
 A simple Streamlit app for managing hotel and restaurant operations.
 
-**Live Demo:** [Click here](https://hotel-manage-advance---app-t5nxk3iyb3e3qyummtmrvz.streamlit.app/)
+**Live Demo:** [(https://hotel-manage-advance---app-t5nxk3iyb3e3qyummtmrvz.streamlit.app/)](https://hotel-manage-advance---app-t5nxk3iyb3e3qyummtmrvz.streamlit.app/)
 
 ---
 
