@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Python Restaurant", page_icon="🍽️", layout="wide")
+st.set_page_config(page_title="Hotel Management - The Python Restaurant", page_icon="🍽️", layout="wide")
 
 # --- MENU DATA ---
 menu = {
@@ -77,3 +77,4 @@ if st.button("✅ Place Order"):
         st.success(f"🎉 Order placed successfully! Total payable: ₹{order_total}")
     else:
         st.error("Please select at least one item to place your order.")
+
