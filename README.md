@@ -1,6 +1,6 @@
 # Hotel Manage — Advanced App
 
-**Live Demo:** [https://streamlit-hotel-management-app-advance-123.streamlit.app/](https://streamlit-hotel-management-app-advance-123.streamlit.app/)
+**Live Demo:** [https://python-hotel-management-app-advance-123.streamlit.app/](https://python-hotel-management-app-advance-123.streamlit.app/)
 
 ---
 
